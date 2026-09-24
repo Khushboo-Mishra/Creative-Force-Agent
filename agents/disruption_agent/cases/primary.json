@@ -1,0 +1,14 @@
+{
+  "emerging_technology": "Agentic AI systems that can plan, retrieve evidence, analyze business data, draft recommendations, and generate client-ready consulting materials under human supervision.",
+  "intended_application": "Automating and augmenting management-consulting research, market analysis, financial-model first drafts, interview synthesis, and presentation production.",
+  "organization": "A fictional mid-sized strategy consulting firm, Northstar Advisory, with 900 employees, a pyramid staffing model, and most revenue billed by project teams using junior analyst hours.",
+  "industry_sector": "Management consulting and professional services.",
+  "business_need": "Protect margin and relevance as clients expect faster, lower-cost, AI-enabled strategy work and competitors use AI to compress research and analysis cycles.",
+  "users_stakeholders": "Partners, engagement managers, analysts, clients, knowledge-management staff, recruiting teams, and risk/compliance reviewers.",
+  "adoption_posture": "Moderate fast-follower. The firm wants to preserve premium positioning but cannot ignore competitors' AI-enabled delivery models.",
+  "capabilities_constraints": "Strong client relationships and domain expertise; fragmented internal knowledge base; limited data-engineering capacity; cautious legal review; junior analyst utilization is central to the current profit model.",
+  "risk_consequence_context": "Incorrect analysis could damage client strategy, reputation, and liability exposure. Most outputs remain reversible before client delivery if human review is required.",
+  "management_question": "Should management treat agentic AI as a sustaining productivity tool inside the current consulting model or as a disruptive threat to the firm's leverage-based business model?",
+  "time_horizon": "Near term: 0-18 months; mid term: 18-36 months; far term: 3-5 years.",
+  "additional_context": "Use Chapter 1 Creative Destruction as the governing framework. Focus on the business model, not generic AI excitement."
+}

@@ -1,0 +1,14 @@
+{
+  "emerging_technology": "Agentic AI systems that can plan, retrieve evidence, analyze business data, draft recommendations, and generate client-ready consulting materials under human supervision.",
+  "intended_application": "Internal knowledge search, proposal drafting, and non-client-facing productivity support for a regulated hospital system's administrative strategy office.",
+  "organization": "A nonprofit regional hospital system with a small internal strategy team, conservative risk posture, and no business model built on billing junior analyst hours.",
+  "industry_sector": "Healthcare administration.",
+  "business_need": "Reduce administrative burden and speed internal planning work without creating patient-safety, privacy, or compliance risk.",
+  "users_stakeholders": "Strategy office staff, hospital executives, compliance officers, IT security, clinicians consulted for planning, and patients indirectly affected by administrative decisions.",
+  "adoption_posture": "Conservative and risk-averse because of healthcare privacy, safety, and compliance obligations.",
+  "capabilities_constraints": "Strong compliance process; limited AI engineering capacity; protected health information restrictions; existing document repositories; no client-facing consulting revenue stream.",
+  "risk_consequence_context": "High privacy and compliance consequences if systems access protected health information or generate unsupported operational recommendations.",
+  "management_question": "Should management treat agentic AI as a disruptive threat to the hospital's business model or as a sustaining administrative productivity tool requiring strict governance?",
+  "time_horizon": "Near term: 0-18 months; mid term: 18-36 months; far term: 3-5 years.",
+  "additional_context": "Hold the technology constant from the primary case. The contrast should test whether disruption potency changes when the business model is not a consulting leverage model."
+}

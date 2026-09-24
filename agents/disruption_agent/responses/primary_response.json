@@ -1,0 +1,65 @@
+{
+  "agent": {
+    "name": "Emerging Technology Disruption Agent",
+    "specialty": "Creative destruction and business-model disruption analysis",
+    "version": "2026-09-24"
+  },
+  "analytical_question": "How much creative destruction could agentic AI cause to a mid-sized strategy consulting firm's leverage-based business model, on what time horizon, and what action is justified now?",
+  "general_et_finding": "Agentic AI is generally more than a sustaining productivity tool because it can change how knowledge work is assembled, priced, and delivered. The general technology can plan across steps, retrieve evidence, synthesize information, generate drafts, and operate with tools under human oversight. That does not automatically make every application disruptive, but it creates a credible disruptive mechanism wherever the incumbent model monetizes scarce human research, analysis, and document production.",
+  "application_finding": "For consulting research, analysis, and deck production, the technology directly attacks the junior-analyst layer that supports the consulting pyramid. It can create faster research cycles, lower delivery cost, new self-service or subscription advisory products, and outcome-priced offerings. It can also destroy or reduce billable-hour volume, commoditize first-pass research and slide production, bypass some analyst staffing, and weaken training pathways that depend on junior work.",
+  "organization_specific_finding": "For Northstar Advisory, the Business-Model Disruption Potency is High over the 18-36 month horizon. The firm is not existentially exposed in the near term because client trust, senior judgment, relationship management, and accountability still matter. The exposure becomes high because the firm's pricing and margin logic depend on junior utilization, while its competitors and clients can use AI to compress the same work. Severity/time-horizon placement: high severity, mid-term material threat. Bounded response: act now through controlled pilots, pricing-model redesign, knowledge-base cleanup, and a deliberate plan to cannibalize some analyst-hours economics before competitors or clients do it first.",
+  "evidence": [
+    {
+      "claim": "Chapter 1 defines creative destruction as technology-mediated renewal that destroys old business models while creating new ones, and distinguishes sustaining improvements from disruptive models that deliver value differently.",
+      "source_or_reference": "Andres Fortino, Mastering the Craft of Emerging Technology Adoption, Chapter 1 - Creative Destruction, pre-publication manuscript supplied in the assignment ZIP.",
+      "date_or_recency": "Draft dated August 2026",
+      "evidence_type": "Course conceptual framework",
+      "notes": "This is the governing framework required by the assignment."
+    },
+    {
+      "claim": "BCG reported 2025 revenue growth to $14.4 billion and stated that AI- and tech-focused services represented more than 40 percent of total revenue.",
+      "source_or_reference": "Boston Consulting Group press release, 'BCG Reports $14.4 Billion in Revenue, Marking 22nd Consecutive Year of Growth,' April 23, 2026.",
+      "date_or_recency": "April 23, 2026",
+      "evidence_type": "Market evidence from incumbent consulting firm",
+      "notes": "Supports the finding that AI is already reshaping consulting demand and service mix."
+    },
+    {
+      "claim": "McKinsey describes agentic-AI-era services as moving toward new value propositions, partnership ecosystems, proprietary IP, and outcome-based pricing and commercial models.",
+      "source_or_reference": "McKinsey, 'Transforming tech services for agentic AI,' 2025/2026 article.",
+      "date_or_recency": "Accessed September 24, 2026",
+      "evidence_type": "Industry-analysis evidence",
+      "notes": "Supports the mechanism that professional services can shift away from pure effort-based billing."
+    },
+    {
+      "claim": "BCG's AI value-gap research reports that only a small minority of firms achieve value at scale from AI, making execution capability and governance important limits on near-term disruption.",
+      "source_or_reference": "BCG, 'Are You Generating Value from AI?' The Widening AI Value Gap, October 2025.",
+      "date_or_recency": "October 2025",
+      "evidence_type": "Adoption and value-realization evidence",
+      "notes": "Qualifies the disruption rating by showing that implementation, not the model alone, determines realized business impact."
+    }
+  ],
+  "contrary_evidence_or_limitations": [
+    "Consulting does not disappear merely because analysis can be automated; clients still value accountability, senior judgment, trust, industry experience, political navigation, and implementation support.",
+    "The case organization is fictional, so exact financial exposure cannot be calculated without utilization, pricing, margin, client-retention, and win-rate data.",
+    "Many firms struggle to capture measurable AI value at scale, so near-term disruption could be slower if knowledge management, data quality, review workflow, or client trust are weak.",
+    "The analysis does not prove layoffs or revenue decline for this firm; it identifies business-model exposure and management actions."
+  ],
+  "confidence_and_uncertainty": "Confidence is moderate-high on the direction of exposure because the application overlaps directly with billable junior knowledge work and current consulting-market evidence shows AI-enabled service growth and commercial-model pressure. Confidence is lower on exact timing and severity because the case lacks Northstar's actual client mix, utilization economics, proprietary knowledge assets, and competitor position.",
+  "value_opportunity_implication": "The opportunity is to create a faster, lower-cost, higher-margin advisory model that uses partners and managers for judgment while agentic systems handle repeatable research, synthesis, and draft production. Northstar can also productize recurring analyses as subscription or outcome-linked services.",
+  "risk_governance_implication": "The main risks are unsupported analysis reaching clients, confidentiality breaches, weak source discipline, erosion of analyst training, and accidental commoditization of the firm's own services. Human review, source requirements, client-data controls, and clear authority boundaries are necessary.",
+  "recommendation_management_implication": "Treat agentic AI as a disruptive business-model threat and opportunity, not only as a sustaining productivity tool. Management should act now by piloting AI-enabled delivery on low-risk engagements, redesigning pricing away from pure junior-hour recovery, rebuilding the analyst development model, and preparing to cannibalize some billable analyst work before clients or AI-native competitors force the change.",
+  "change_monitoring_triggers": [
+    "A major competitor publicly offers fixed-fee, AI-enabled strategy diagnostics at materially lower cycle time or price.",
+    "Clients begin demanding AI-enabled delivery discounts, outcome pricing, or transparency into analyst-hour reductions.",
+    "Internal pilots show at least 30 percent cycle-time reduction in research and deck-production work without quality loss.",
+    "Junior analyst utilization or recruiting demand falls for two consecutive planning cycles.",
+    "A credible AI-native entrant wins enterprise strategy work that Northstar historically would have staffed with analyst-heavy teams."
+  ],
+  "abstention_or_more_information_needed": [
+    "Actual revenue by project type and billing model.",
+    "Analyst utilization, margin, and training-pathway data.",
+    "Client willingness to accept AI-assisted deliverables and outcome-based pricing.",
+    "Competitor offerings in Northstar's specific practice areas.",
+    "Internal controls for confidential client data and source verification."
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "agent": {
+    "name": "Emerging Technology Disruption Agent",
+    "specialty": "Creative destruction and business-model disruption analysis",
+    "version": "2026-09-24"
+  },
+  "analytical_question": "How much creative destruction could agentic AI cause when used for internal administrative strategy work in a conservative hospital system?",
+  "general_et_finding": "Agentic AI remains generally capable of changing knowledge-work processes by planning across tasks, retrieving evidence, synthesizing documents, and drafting outputs with tool support. That general capability is stable from the consulting case. The disruptive potential depends on the business model it touches, not on the technology label alone.",
+  "application_finding": "For internal hospital strategy-office support, the application is mostly sustaining and complementary. It can create faster document search, proposal drafting, meeting synthesis, and planning analysis. It may reduce administrative effort and some outside-consulting spend, but it does not directly displace the hospital's core care-delivery revenue model or patient-service value proposition.",
+  "organization_specific_finding": "For the nonprofit hospital system, Business-Model Disruption Potency is Moderate for administrative workflows and Low for the core hospital business model over the 18-36 month horizon. Severity/time-horizon placement: moderate severity for internal operations, near-to-mid-term; low severity for core business-model destruction. Bounded response: prepare and pilot under strict governance rather than act as if the organization's core model faces a disruptive threat.",
+  "evidence": [
+    {
+      "claim": "Chapter 1's sustaining-versus-disruptive distinction requires asking whether a technology improves the current model or enables a different business model.",
+      "source_or_reference": "Andres Fortino, Mastering the Craft of Emerging Technology Adoption, Chapter 1 - Creative Destruction, pre-publication manuscript supplied in the assignment ZIP.",
+      "date_or_recency": "Draft dated August 2026",
+      "evidence_type": "Course conceptual framework",
+      "notes": "The contrast applies the same framework but reaches a different potency judgment because the business model differs."
+    },
+    {
+      "claim": "Agentic AI can support workflow automation and decision support, but realized value depends heavily on integration, process redesign, and governance.",
+      "source_or_reference": "BCG, 'Are You Generating Value from AI?' The Widening AI Value Gap, October 2025.",
+      "date_or_recency": "October 2025",
+      "evidence_type": "Adoption and value-realization evidence",
+      "notes": "Supports a cautious pilot posture rather than an urgent disruption response."
+    },
+    {
+      "claim": "McKinsey's agentic-AI services analysis emphasizes domain expertise, customization, and outcome-based models, implying that the same technology affects service businesses differently depending on the value model.",
+      "source_or_reference": "McKinsey, 'Transforming tech services for agentic AI,' 2025/2026 article.",
+      "date_or_recency": "Accessed September 24, 2026",
+      "evidence_type": "Industry-analysis evidence",
+      "notes": "Used to support the stable general technology finding and the context-dependent application judgment."
+    }
+  ],
+  "contrary_evidence_or_limitations": [
+    "The system could become more disruptive if it expands from administrative drafting into clinical operations, revenue-cycle decisions, or patient-facing triage.",
+    "The hospital case does not include detailed cost data for consultants, administrative headcount, or document-search burden.",
+    "Healthcare privacy and compliance obligations may reduce usable automation more than the technology's general capability suggests."
+  ],
+  "confidence_and_uncertainty": "Confidence is moderate that the application is sustaining for the hospital's core business model because the contemplated use is internal administrative support rather than a new way to deliver healthcare. Confidence is lower on operational savings because the case lacks baseline cycle times, staffing costs, and compliance architecture.",
+  "value_opportunity_implication": "The main value opportunity is administrative productivity, faster planning cycles, improved retrieval of policies and prior analyses, and reduced dependence on outside consultants for first-pass work.",
+  "risk_governance_implication": "The main governance issue is not creative destruction of the hospital business model but privacy, compliance, source quality, and human authority over operational recommendations. Protected health information and patient-impacting decisions require strict controls.",
+  "recommendation_management_implication": "Treat agentic AI as a governed sustaining tool for internal strategy work. Prepare and pilot with low-risk document and planning tasks, keep human review mandatory, prohibit unsupervised protected-health-information use, and monitor whether the application begins touching higher-consequence workflows.",
+  "change_monitoring_triggers": [
+    "The tool begins using protected health information or producing patient-care, revenue-cycle, or staffing recommendations.",
+    "Administrative pilots show large savings and executives ask to expand the system into operational decision workflows.",
+    "Regulatory guidance changes the acceptable use of AI agents in healthcare administration.",
+    "Vendors offer hospital-specific agent platforms with validated privacy, audit, and governance controls.",
+    "Outside-consulting spend falls materially because internal staff can perform planning analysis with agentic support."
+  ],
+  "abstention_or_more_information_needed": [
+    "Which data repositories the agent may access.",
+    "Whether protected health information is in scope.",
+    "Current administrative cycle times and outside-consulting spend.",
+    "Hospital AI governance policy and legal review requirements.",
+    "Whether the contemplated use will remain internal or become patient-facing."
+  ]
+}
