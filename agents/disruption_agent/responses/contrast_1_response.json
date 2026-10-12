@@ -6,8 +6,8 @@
   },
   "analytical_question": "How much creative destruction could agentic AI cause when used for internal administrative strategy work in a conservative hospital system?",
   "general_et_finding": "Agentic AI remains generally capable of changing knowledge-work processes by planning across tasks, retrieving evidence, synthesizing documents, and drafting outputs with tool support. That general capability is stable from the consulting case. The disruptive potential depends on the business model it touches, not on the technology label alone.",
-  "application_finding": "For internal hospital strategy-office support, the application is mostly sustaining and complementary. It can create faster document search, proposal drafting, meeting synthesis, and planning analysis. It may reduce administrative effort and some outside-consulting spend, but it does not directly displace the hospital's core care-delivery revenue model or patient-service value proposition.",
-  "organization_specific_finding": "For the nonprofit hospital system, Business-Model Disruption Potency is Moderate for administrative workflows and Low for the core hospital business model over the 18-36 month horizon. Severity/time-horizon placement: moderate severity for internal operations, near-to-mid-term; low severity for core business-model destruction. Bounded response: prepare and pilot under strict governance rather than act as if the organization's core model faces a disruptive threat.",
+  "application_finding": "Business-model baseline: the nonprofit hospital provides care to patients through clinical staff, facilities, and referral and payer relationships; its core value is care delivery, not selling analyst hours. The strategy office is an internal support function. Sustaining path: agents help staff search documents and draft plans while care delivery stays human-led. Creative-destruction ledger - created: faster document search, proposal drafting, meeting synthesis, and planning analysis; reduced: some administrative effort and possibly outside-consulting spend; not displaced by this bounded application: clinical services, patient relationships, or the core care-delivery model. Savings are hypothetical because no hospital cost baseline was supplied.",
+  "organization_specific_finding": "For the nonprofit hospital system, Business-Model Disruption Potency is Low for the core business model and Moderate for internal administrative workflows. Matrix placement for this bounded application: moderate operational severity, near-to-mid-term; low core business-model destruction. Prepare and pilot under strict governance. The incumbent dilemma is smaller here: the organization may need to reduce some manual administrative work and outside-consulting dependence, but has no analyst-hour revenue to cannibalize. Acting too early risks privacy or compliance harm; waiting may delay low-risk efficiency gains. The 18-36 month comparison window is a scenario assumption, not a forecast.",
   "evidence": [
     {
       "claim": "Chapter 1's sustaining-versus-disruptive distinction requires asking whether a technology improves the current model or enables a different business model.",
@@ -18,17 +18,17 @@
     },
     {
       "claim": "Agentic AI can support workflow automation and decision support, but realized value depends heavily on integration, process redesign, and governance.",
-      "source_or_reference": "BCG, 'Are You Generating Value from AI?' The Widening AI Value Gap, October 2025.",
+      "source_or_reference": "Boston Consulting Group, 'The Widening AI Value Gap: Build for the Future 2025,' September 30, 2025. https://www.bcg.com/press/30september2025-ai-leaders-outpace-laggards-revenue-growth-cost-savings",
       "date_or_recency": "October 2025",
       "evidence_type": "Adoption and value-realization evidence",
       "notes": "Supports a cautious pilot posture rather than an urgent disruption response."
     },
     {
       "claim": "McKinsey's agentic-AI services analysis emphasizes domain expertise, customization, and outcome-based models, implying that the same technology affects service businesses differently depending on the value model.",
-      "source_or_reference": "McKinsey, 'Transforming tech services for agentic AI,' 2025/2026 article.",
-      "date_or_recency": "Accessed September 24, 2026",
+      "source_or_reference": "McKinsey, 'Reimagining the value proposition of tech services for agentic AI,' December 17, 2025. https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/reimagining-the-value-proposition-of-tech-services-for-agentic-ai",
+      "date_or_recency": "December 17, 2025; checked October 12, 2026",
       "evidence_type": "Industry-analysis evidence",
-      "notes": "Used to support the stable general technology finding and the context-dependent application judgment."
+      "notes": "An analogy about service business models; it does not measure hospital impact."
     }
   ],
   "contrary_evidence_or_limitations": [
